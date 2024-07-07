@@ -1,0 +1,82 @@
+header{
+    height: 60px;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    color: whitesmoke;
+    
+}
+
+.top{
+
+
+    height: 60px;
+    margin-left: 10%;
+    
+}
+select{
+    background-color: aquamarine;
+}
+
+.icon{
+    float: right;
+    margin-right: 200px;
+}
+
+.nav{
+    
+    word-spacing: 20px;
+}
+
+.white>p{
+    font-family:jokerman;
+    color: black;
+    font-size: 15px;
+    
+}
+.white{
+    margin-left: 10%;
+}
+
+.fullnav{
+    background-color: azure;
+}
+main{
+    margin-top: 100px;
+}
+
+.content{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-left: 280PX;
+}
+
+.blue{
+    
+    text-align: center;
+    background-color: rgb(65, 181, 234);
+    height: 250px;
+    padding: 150px;
+
+}
+
+footer{
+    text-align: center;
+    padding: 90px;
+    width: 100%;
+    height: 200px;
+    background-clip: text;
+    color:transparent;
+    color: white;
+    font-weight: bolder;
+
+    text-align: center;
+    background: url(pexels-noah-erickson-97554-404280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card:hover{
+    background-color: silver;
+}
