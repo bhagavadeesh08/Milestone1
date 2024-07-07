@@ -1,9 +1,6 @@
 # Milestone1
-
-![Screenshot 2024-07-07 161306](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/eaac2e55-cf44-46a7-89d7-e006f9edbfbd)
-![Screenshot 2024-07-07 161533](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/fda0e81f-6124-4b21-a62c-09e4e366892a)
-![Screenshot 2024-07-07 161521](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/0e7cecbf-253b-4d55-8d0a-22b1ff4d2c94)
-![Screenshot 2024-07-07 161503](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/bcaa8311-daca-4bc8-a621-f34af45029bf)
-![Screenshot 2024-07-07 161443](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/a7110cb7-8033-4294-9458-bbd1ee5d700d)
-![Screenshot 2024-07-07 161421](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/7e97f208-0eee-471a-abb1-0f3a0bc61d27)
-![Screenshot 2024-07-07 161357](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/21497bd2-b753-406e-8fa8-77b4f87db293)
+![Screenshot 2024-07-07 161357](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/ed533354-fe5a-48ea-857e-47cd1602ef8e)
+![Screenshot 2024-07-07 161443](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/9747953c-8c82-496c-96d2-72cb87f81f9d)
+![Screenshot 2024-07-07 161503](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/221cc19d-b000-4f87-b4c4-6ae294d25e61)
+![Screenshot 2024-07-07 161521](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/476c28a9-02e5-4e67-9d82-31592efb4006)
+![Screenshot 2024-07-07 161533](https://github.com/bhagavadeesh08/Milestone1/assets/161114164/34c42888-7ea7-4a1f-9b79-b6f30d5105a8)
